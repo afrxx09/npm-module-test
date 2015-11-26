@@ -1,0 +1,19 @@
+{
+  "name": "npm-module-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afrxx09/npm-module-test.git"
+  },
+  "author": "Andreas Fridlund <afridlund85@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afrxx09/npm-module-test/issues"
+  },
+  "homepage": "https://github.com/afrxx09/npm-module-test#readme"
+}
